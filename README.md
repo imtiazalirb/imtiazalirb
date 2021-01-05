@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Imtiaz - aka [imtiazalirb] 👋
 
 <!--
 **imtiazalirb/imtiazalirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Student, Developer, and Teacher!
+
+- 🔭 I am currently working on Node.js
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to talks about cars and techs
