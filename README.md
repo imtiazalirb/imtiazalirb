@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to talks about cars and techs
 
 ### Connect with me:
-
-[<img align="left" alt="twitter.com/imtiazali4090" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/imtiazalirb/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram.com/imtiazalirb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="twitter.com/imtiazali4090" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="https://www.linkedin.com/in/imtiazalirb/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="instagram.com/imtiazalirb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
